@@ -1,0 +1,38 @@
+/* main */
+.card {
+  border: 1px solid var(--color-2);
+  margin-bottom: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.card-header,
+.card-footer {
+  border: unset;
+  font-weight: 600;
+  font-size: 16px;
+  background-color: #fff;
+}
+
+.card-body .form-outline .form-control,
+.card-body .form-outline .form-select {
+  border: unset;
+  background-color: #FAFAFB;
+  border: 2px solid #ccc;
+}
+
+.card-body .form-outline .form-control:focus,
+.card-body .form-outline .form-select:focus {
+  box-shadow: unset;
+}
+
+.billing-address button {
+  background-color: var(--color-4);
+  color: #ccc;
+  font-weight: 600;
+}
+
+.billing-summary .note {
+  font-size: 15px;
+}

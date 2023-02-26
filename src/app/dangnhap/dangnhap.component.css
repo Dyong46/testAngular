@@ -1,0 +1,89 @@
+/* Auth-sidebar */
+
+.auth-sidebar header a {
+  color: #85586f;
+  text-decoration: none;
+  font-size: 30px;
+  font-family: "Pacifico", cursive;
+}
+
+.auth-sidebar header h1 {
+  color: #694055;
+  font-size: 30px;
+  font-weight: 650;
+}
+
+.auth-sidebar .artwork .artwork-attribution {
+  color: #85586f;
+}
+
+.auth-sidebar .artwork .artwork-attribution a {
+  color: #85586f;
+}
+
+.content .auth-nav {
+}
+
+.content .auth-nav .auth-link a {
+  text-decoration: none;
+}
+
+.content .card-body form {
+  width: 100%;
+  max-width: 500px;
+}
+
+.card-body .header span {
+  font-size: 32px;
+  color: #694055;
+}
+
+.auth-connections a {
+  border-radius: 10px;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.auth-connections .google-connect-btn {
+  background-color: #1a73e8;
+  color: #fff;
+}
+
+.auth-connections .twitter-connect-btn {
+  background-color: #e5e5e5;
+  color: #6e6d7a;
+}
+
+.content .card-body .form-outline label {
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.content .card-body .form-outline input {
+  border: unset;
+  background-color: #f3f3f4;
+  border-radius: 10px;
+  font-size: 17px;
+}
+
+.content .card-body .forgot-pass {
+  text-decoration: none;
+  color: #683fb0;
+  font-weight: 500;
+}
+
+.content .card-body .sign-in .btn {
+  background-color: #ea4c89;
+  font-weight: 600;
+  font-size: 16px;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  padding-left: 70px;
+  padding-right: 70px;
+}
+
+.content .card-body .sign-in button:focus,
+.content .card-body .sign-in button:hover {
+  box-shadow: unset;
+}
